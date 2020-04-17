@@ -1,0 +1,6 @@
+DUPONT
+
+45 boite_punaises (PU=3.500000€) ::157.500000€
+15 boite_trombones (PU=4.100000€) ::61.500000€
+
+	 Prix Totale de La commande : 219.000000

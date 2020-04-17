@@ -1,0 +1,9 @@
+DURAND
+
+25 feutre (PU=1.800000€) ::45.000000€
+15 regle (PU=2.300000€) ::34.500000€
+50 agrafeuse (PU=5.600000€) ::280.000000€
+25 ramette_feuillesA4 (PU=9.900000€) ::247.499985€
+30 boite_100enveloppes11*21 (PU=8.700000€) ::261.000000€
+
+	 Prix Totale de La commande : 868.000000

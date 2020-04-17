@@ -1,0 +1,8 @@
+DUPONT
+
+10 crayon (PU=1.200000€) ::12.000000€
+25 agrafeuse (PU=5.600000€) ::140.000000€
+35 ramette_feuillesA4 (PU=9.900000€) ::346.500000€
+60 boite_100enveloppes11*21 (PU=8.700000€) ::522.000000€
+
+	 Prix Totale de La commande : 1020.500000
